@@ -1,1 +1,1 @@
-# DataScienceIntern
+# DataAnalyticsIntern
